@@ -1,0 +1,4 @@
+interface:
+  display_name: "酒店餐饮小红书网感图"
+  short_description: "生成真实、自然、清透的酒店与餐饮小红书3:4网感图"
+  default_prompt: "使用 $hotel-dining-xhs-images 基于真实酒店或餐厅照片，规划并生成一组3:4小红书网感图。"
